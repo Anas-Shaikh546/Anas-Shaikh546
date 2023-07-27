@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anas-Shaikh
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning Next.js 
+- 🌱 I’m currently learning MERN STACK 
 - 💞️ I’m looking to collaborate on Web development Projects
 - 📫 Email sk.anas4004@gmail.com
 
