@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anas-Shaikh
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning MERN STACK 
+- 🌱 I’m currently working on Blockchain Technologies 
 - 💞️ I’m looking to collaborate on Web development Projects
 - 📫 Email sk.anas4004@gmail.com
 
