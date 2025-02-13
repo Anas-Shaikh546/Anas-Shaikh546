@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Php**
 - 
-- -📧 sk.anas404@gmail.com
+- -📧 sk.anas4004@gmail.com
 
 - 📄 Know about my experiences [Anas4004.netlify.app](Anas4004.netlify.app)
 
